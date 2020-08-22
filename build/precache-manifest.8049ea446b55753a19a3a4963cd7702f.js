@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09a7295b43576e3cef570873aab38459",
+    "revision": "c3c0fdbba116964c237322a167a7220f",
     "url": "/Rida/build/index.html"
   },
   {
-    "revision": "32cda5dc4c6d42bdff89",
+    "revision": "6f86c3ed0646f35cd130",
     "url": "/Rida/build/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rida/build/static/js/2.ffd188c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32cda5dc4c6d42bdff89",
-    "url": "/Rida/build/static/js/main.24ba0c10.chunk.js"
+    "revision": "6f86c3ed0646f35cd130",
+    "url": "/Rida/build/static/js/main.95427726.chunk.js"
   },
   {
     "revision": "d5a3da93319a36b3b9dc",

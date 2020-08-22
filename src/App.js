@@ -60,11 +60,11 @@ function App({ history }) {
   };
 
   const navigate = () => {
-    if (history.location.pathname === "/fav") {
-      history.push("/");
+    if (history.location.pathname === "/Rida/build/fav") {
+      history.push("/Rida/build/");
       //console.log(history);
     } else {
-      history.push("/fav");
+      history.push("/Rida/build/fav");
     }
   };
 
@@ -107,7 +107,7 @@ function App({ history }) {
       </Header>
 
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/Rida/build/">
           <Jokebox joke={joke}></Jokebox>
           <Button onClick={newJoke}>Get joke</Button>
           <Button onClick={rollinJokes}>Let's have dis jokes rolli'n</Button>
@@ -120,7 +120,7 @@ function App({ history }) {
           </Button>
         </Route>
 
-        <Route exact path="/fav">
+        <Route exact path="/Rida/build/fav">
           <FavPage jokes={favJokes} deleteFavJoke={deleteFavJoke} clearAllHandler={clearAllHandler}></FavPage>
         </Route>
       </Switch>

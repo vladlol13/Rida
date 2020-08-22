@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Rida/build/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Rida/build/static/js/main.24ba0c10.chunk.js",
-    "main.js.map": "/Rida/build/static/js/main.24ba0c10.chunk.js.map",
+    "main.js": "/Rida/build/static/js/main.95427726.chunk.js",
+    "main.js.map": "/Rida/build/static/js/main.95427726.chunk.js.map",
     "runtime-main.js": "/Rida/build/static/js/runtime-main.091d083f.js",
     "runtime-main.js.map": "/Rida/build/static/js/runtime-main.091d083f.js.map",
     "static/js/2.ffd188c4.chunk.js": "/Rida/build/static/js/2.ffd188c4.chunk.js",
     "static/js/2.ffd188c4.chunk.js.map": "/Rida/build/static/js/2.ffd188c4.chunk.js.map",
     "index.html": "/Rida/build/index.html",
-    "precache-manifest.4e5a01ebd31426b0ff037403acc87153.js": "/Rida/build/precache-manifest.4e5a01ebd31426b0ff037403acc87153.js",
+    "precache-manifest.8049ea446b55753a19a3a4963cd7702f.js": "/Rida/build/precache-manifest.8049ea446b55753a19a3a4963cd7702f.js",
     "service-worker.js": "/Rida/build/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Rida/build/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.ffd188c4.chunk.js.LICENSE.txt": "/Rida/build/static/js/2.ffd188c4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.091d083f.js",
     "static/js/2.ffd188c4.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.24ba0c10.chunk.js"
+    "static/js/main.95427726.chunk.js"
   ]
 }

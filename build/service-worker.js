@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Rida/build/precache-manifest.4e5a01ebd31426b0ff037403acc87153.js"
+  "/Rida/build/precache-manifest.8049ea446b55753a19a3a4963cd7702f.js"
 );
 
 self.addEventListener('message', (event) => {
