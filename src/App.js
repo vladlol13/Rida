@@ -32,7 +32,14 @@ function App({ history }) {
 
   const [favJokes, setFavJokes] = React.useState([]);
 
-  React.useEffect(() => {setFavJokes(JSON.parse(localStorage.getItem('favJokes')))}, []);
+  React.useEffect(() => {
+    const localFavJokes = localStorage.getItem('favJokes');
+    if (localFavJokes) {
+      setFavJokes(JSON.parse(localFavJokes))
+    } else {
+      setFavJokes([]);
+    }
+  }, []);
   React.useEffect(() => {localStorage.setItem('favJokes', JSON.stringify(favJokes))}, [favJokes]);
  
 
